@@ -1,6 +1,17 @@
 #header {
-  background: #66A2BA;
   color: #fff;
+  background-image: url(/img/milky-way-g2bb4e2a59_1920.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#header .logo img {
+  border-radius: 50%;
+}
+
+#header .logo-azer img {
+  border-radius: 50%;
 }
 
 #header img {
