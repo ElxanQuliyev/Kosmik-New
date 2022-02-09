@@ -1,0 +1,19 @@
+#header {
+  background: #66A2BA;
+  color: #fff;
+}
+
+#header img {
+  height: 100px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+#header .btn-reset {
+  margin-right: 10px;
+}
+
+#analysis {
+  margin-top: 5rem;
+}
+/*# sourceMappingURL=style.css.map */
